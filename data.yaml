@@ -1,0 +1,12 @@
+names:
+  - carrot
+  - bittergourd
+  - bottlegourd
+  - brinjal
+  - broccoli
+  - potato
+  - tomato
+nc: 7
+test: ./tastetrace_dataset/test/images
+train: ./tastetrace_dataset/train/images
+val: ./tastetrace_dataset/valid/images
